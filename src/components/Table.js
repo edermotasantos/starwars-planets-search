@@ -27,10 +27,6 @@ function Table() {
       </thead>
       <tbody>
         {
-          /**
-          * Consultei o repositório de Victor para resolver essa parte.
-          * Link: https://github.com/tryber/sd-011-project-starwars-planets-search/pull/4/commits/4ac907c703e279d2d00b04416ede5b40cdaffd09
-          */
           filteredPlanets.map(({
             name,
             rotation_period: rotationPeriod,

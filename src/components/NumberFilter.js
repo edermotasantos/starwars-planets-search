@@ -26,10 +26,6 @@ function NumberFilter() {
       ],
     });
 
-    /**
-     * Consultei o repositório de Victor Faria para resolver essa parte.
-     * Link: // https://github.com/tryber/sd-011-project-starwars-planets-search/pull/4/files
-     */
     const filteredSelect = columnOptions.filter((item) => item !== column);
     setColumnOptions([...filteredSelect]);
   };
