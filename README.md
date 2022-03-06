@@ -48,6 +48,8 @@ Para usar Starwars Planets Search, siga estas etapas:
 * Para testar somente um requisito digite `npm test nomedotest`, sendo "nomedotest" o nome do teste que deseja executar. Exemplo: para executar o teste "App", digite: `npm test App`
 * Para rodar apenas um teste digite `.only` em describe. Ao invés de `describe(n-1 - ...)`, salve com `describe.only(n-1 - ...)`
 
+Agora você já pode ver o funcionamento desse projeto!
+
 
 ## A seguir instruções e requisitos que foram solicitados para o projeto
 
